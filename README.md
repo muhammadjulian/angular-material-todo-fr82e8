@@ -29,3 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Code Coverage
 
 ![code_cov](https://user-images.githubusercontent.com/38089145/149070396-c260f669-e93f-4301-9a3d-779cc2618df3.PNG)
+
+## UI
+![todos](https://user-images.githubusercontent.com/38089145/149070550-258911b4-c59e-4710-a335-e8614760f244.PNG)
